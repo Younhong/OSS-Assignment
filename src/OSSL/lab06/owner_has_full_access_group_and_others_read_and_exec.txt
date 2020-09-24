@@ -1,0 +1,2 @@
+Only the owner of this file can read, write, and execute;
+The group members and the others only can read and execute.

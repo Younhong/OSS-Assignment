@@ -1,0 +1,2 @@
+The file owner can read the file;
+The rest of the group members and others can execute the file.
